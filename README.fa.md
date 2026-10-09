@@ -6,8 +6,8 @@
 
 **دستیار هوش مصنوعی شخصی شما — روی دستگاه خودتان، با زبان خودتان**
 
-[![Latest](https://img.shields.io/github/v/release/SOBi-123/vesta-agent-releases?label=%D9%86%D8%B3%D8%AE%D9%87&color=3b82f6&style=for-the-badge)](https://github.com/SOBi-123/vesta-agent-releases/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/SOBi-123/vesta-agent-releases/total?color=7c3aed&style=for-the-badge)](https://github.com/SOBi-123/vesta-agent-releases/releases)
+[![Latest](https://img.shields.io/github/v/release/Vesta-Agent/vesta-agent-releases?label=%D9%86%D8%B3%D8%AE%D9%87&color=3b82f6&style=for-the-badge)](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Vesta-Agent/vesta-agent-releases/total?color=7c3aed&style=for-the-badge)](https://github.com/Vesta-Agent/vesta-agent-releases/releases)
 ![Platforms](https://img.shields.io/badge/Windows%20%7C%20Android%20%7C%20Linux-0b1220?style=for-the-badge)
 
 ساخته‌شده توسط **Persian Studio** · [**English**](README.md)
@@ -32,7 +32,7 @@
 
 ### ویندوز ۱۰ / ۱۱
 
-**[ دانلود VestaAgent-1.4.0-windows-x64-setup.exe](https://github.com/SOBi-123/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.0-windows-x64-setup.exe)**
+**[ دانلود VestaAgent-1.4.0-windows-x64-setup.exe](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.0-windows-x64-setup.exe)**
 
 1. فایل را دانلود و اجرا کنید.
 2. اگر صفحه‌ی آبی «Windows protected your PC» آمد، روی **More info** و بعد **Run anyway** بزنید.
@@ -40,7 +40,7 @@
 
 ### ویندوز ۷ / ۸
 
-**[ دانلود VestaAgent-1.4.0-windows7-8-legacy-setup.exe](https://github.com/SOBi-123/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.0-windows7-8-legacy-setup.exe)**
+**[ دانلود VestaAgent-1.4.0-windows7-8-legacy-setup.exe](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.0-windows7-8-legacy-setup.exe)**
 
 1. فایل را اجرا کنید.
 2. در هشدار SmartScreen روی **More info** > **Run anyway** بزنید.
@@ -48,7 +48,7 @@
 
 ### اندروید
 
-**[ دانلود VestaAgent-1.4.0-android.apk](https://github.com/SOBi-123/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.0-android.apk)**
+**[ دانلود VestaAgent-1.4.0-android.apk](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.0-android.apk)**
 
 1. > اگر نسخه‌ی قدیمی **My Agent** زیر 1.2 نصب دارید، اول آن را حذف کنید.
 2. فایل APK را باز کنید.
@@ -57,14 +57,14 @@
 
 ### لینوکس
 
-**deb (اوبونتو / دبیان):** [ VestaAgent-1.4.0-linux-amd64.deb](https://github.com/SOBi-123/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.0-linux-amd64.deb)
+**deb (اوبونتو / دبیان):** [ VestaAgent-1.4.0-linux-amd64.deb](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.0-linux-amd64.deb)
 
 ```bash
 sudo apt install ./VestaAgent-1.4.0-linux-amd64.deb
 # یا: sudo dpkg -i VestaAgent-1.4.0-linux-amd64.deb && sudo apt -f install
 ```
 
-**AppImage (همه‌ی توزیع‌ها):** [ VestaAgent-1.4.0-linux-x86_64.AppImage](https://github.com/SOBi-123/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.0-linux-x86_64.AppImage)
+**AppImage (همه‌ی توزیع‌ها):** [ VestaAgent-1.4.0-linux-x86_64.AppImage](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.0-linux-x86_64.AppImage)
 
 ```bash
 chmod +x VestaAgent-1.4.0-linux-x86_64.AppImage
@@ -105,7 +105,7 @@ chmod +x VestaAgent-1.4.0-linux-x86_64.AppImage
 
 ## بررسی سلامت فایل (SHA256)
 
-فایل [SHA256SUMS](https://github.com/SOBi-123/vesta-agent-releases/releases/latest/download/SHA256SUMS) را کنار فایل دانلودی بگذارید:
+فایل [SHA256SUMS](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/SHA256SUMS) را کنار فایل دانلودی بگذارید:
 
 ```bash
 sha256sum -c SHA256SUMS --ignore-missing # لینوکس
@@ -116,7 +116,7 @@ Get-FileHash .\VestaAgent-1.4.0-windows-x64-setup.exe -Algorithm SHA256 # وین
 
 ## یادداشت‌های انتشار
 
-[همه‌ی نسخه‌ها](https://github.com/SOBi-123/vesta-agent-releases/releases) · [نسخه‌ی 1.4.0](https://github.com/SOBi-123/vesta-agent-releases/releases/tag/v1.4.0)
+[همه‌ی نسخه‌ها](https://github.com/Vesta-Agent/vesta-agent-releases/releases) · [نسخه‌ی 1.4.0](https://github.com/Vesta-Agent/vesta-agent-releases/releases/tag/v1.4.0)
 
 </div>
 
