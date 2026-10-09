@@ -1,20 +1,21 @@
 <div align="center">
 
-<img src="assets/logo.png" width="200" alt="Vesta Agent">
+<img src="assets/logo.png" width="160" alt="لوگوی Vesta Agent">
 
-<a href="https://vesta-agent.github.io"><img src="https://img.shields.io/badge/Website-vesta--agent.github.io-6d5cff?style=for-the-badge" alt="Website"></a> <a href="https://t.me/VestaAgentSupportBot"><img src="https://img.shields.io/badge/%D9%BE%D8%B4%D8%AA%DB%8C%D8%A8%D8%A7%D9%86%DB%8C-Telegram-3b82f6?style=for-the-badge&logo=telegram&logoColor=white" alt="پشتیبانی در تلگرام"></a>
+<sub>دستیار هوش مصنوعی شخصی · نسخه‌ی 1.4.0</sub>
 
-**وب‌سایت: [vesta-agent.github.io](https://vesta-agent.github.io/)**
+# Vesta Agent برای شما کار می‌کند.
 
-# Vesta Agent
+**ایجنت هوش مصنوعی خودتان که حرف می‌زند، صفحه‌تان را می‌بیند، گوشی‌تان را کنترل می‌کند و کارها را انجام می‌دهد. همه‌چیز روی دستگاه خودتان می‌ماند.**
 
-**دستیار هوش مصنوعی شخصی شما — روی دستگاه خودتان، با زبان خودتان**
+<a href="https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest"><img src="https://img.shields.io/github/v/release/Vesta-Agent/vesta-agent-releases?label=%D9%86%D8%B3%D8%AE%D9%87&color=3b82f6&style=for-the-badge" alt="آخرین نسخه"></a>
+<a href="https://github.com/Vesta-Agent/vesta-agent-releases/releases"><img src="https://img.shields.io/github/downloads/Vesta-Agent/vesta-agent-releases/total?color=7c3aed&style=for-the-badge" alt="دانلودها"></a>
+<a href="https://vesta-agent.github.io"><img src="https://img.shields.io/badge/Website-vesta--agent.github.io-6d5cff?style=for-the-badge" alt="وب‌سایت"></a>
+<a href="https://t.me/VestaAgentSupportBot"><img src="https://img.shields.io/badge/%D9%BE%D8%B4%D8%AA%DB%8C%D8%A8%D8%A7%D9%86%DB%8C-Telegram-3b82f6?style=for-the-badge&logo=telegram&logoColor=white" alt="پشتیبانی در تلگرام"></a>
 
-[![Latest](https://img.shields.io/github/v/release/Vesta-Agent/vesta-agent-releases?label=%D9%86%D8%B3%D8%AE%D9%87&color=3b82f6&style=for-the-badge)](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Vesta-Agent/vesta-agent-releases/total?color=7c3aed&style=for-the-badge)](https://github.com/Vesta-Agent/vesta-agent-releases/releases)
-![Platforms](https://img.shields.io/badge/Windows%20%7C%20Android%20%7C%20Linux-0b1220?style=for-the-badge)
+**[دانلود](#دانلود)** · **[ببینید چطور کار می‌کند](#داخل-برنامه)** · **[وب‌سایت](https://vesta-agent.github.io)** · **[English](README.md)**
 
-ساخته‌شده توسط **Persian Studio** · [**English**](README.md)
+رایگان برای ویندوز، اندروید و لینوکس · نسخه‌ی 1.4.0 · ساخت Persian Studio
 
 </div>
 
@@ -22,114 +23,118 @@
 
 ## قابلیت‌ها
 
-- **ایجنت‌های هوشمند** — با موس، با دستور یا هر دو، به انتخاب خودتان
-- **دیدن صفحه** و **تماس صوتی** فارسی، با اجازه‌ی شما
-- **حافظه‌ی هوشمند فقط روی دستگاه خودتان** — بدون هیچ سروری
-- **چند کلید API برای هر ایجنت** — با تمام شدن یکی، خودکار سراغ بعدی می‌رود
-- **تلگرام** — ربات یا حساب شخصی، با ارسال زمان‌بندی‌شده
-- **پروکسی داخلی** با آموزش قدم‌به‌قدم برای کاربران ایران
-- **آپدیت خودکار و بی‌صدا** · **۹ زبان** · **مرور امن** پیش از هر اقدام حساس
+### هر کاری که یک دستیار باید انجام دهد.
+یک برنامه، ایجنت‌های قدرتمند، و هیچ سروری از ما در این میان.
 
----
+| | |
+|---|---|
+| **تماس صوتی** | طبیعی حرف بزنید و جواب را بشنوید. وسط تماس صفحه‌تان را به اشتراک بگذارید و بپرسید مشکل چیست. |
+| **دیدن صفحه** | با اجازه‌ی شما، ایجنت صفحه‌تان را می‌بیند، توضیحش می‌دهد و در رفع مشکل کمکتان می‌کند. |
+| **کنترل گوشی** | ایجنت روی اندروید لمس می‌کند، تایپ می‌کند و جابه‌جا می‌شود، حتی بدون کامپیوتر. |
+| **گروه چت چند ایجنت** | چند ایجنت متخصص را در یک گروه بگذارید تا کار را بین خودشان تقسیم کنند. |
+| **حافظه‌ی محلی** | حافظه‌ی هوشمندی که فقط روی دستگاه شما است. هر وقت خواستید ببینید، ویرایش کنید یا پاکش کنید. |
+| **چند کلید پشتیبان** | برای هر ایجنت چند کلید API بگذارید. وقتی یکی تمام شود، بعدی همان کار را ادامه می‌دهد. |
+| **تلگرام** | ربات یا حساب شخصی خودتان را وصل کنید و پیام زمان‌بندی‌شده بفرستید. |
+| **پروکسی برای ایران** | پروکسی واقعی HTTP و SOCKS5 برای هر سرویس، با آموزش قدم‌به‌قدم داخل برنامه. |
+| **حالت آفلاین** | با Ollama همه‌چیز را روی کامپیوتر خودتان اجرا کنید. هیچ چیزی از دستگاه بیرون نمی‌رود. |
+| **اول حریم خصوصی** | بدون حساب کاربری و بدون دیتابیس ابری. کلیدها روی دستگاه شما رمزگذاری می‌شوند. |
 
-## دانلود و نصب
+## داخل برنامه
 
-### ویندوز ۱۰ / ۱۱
+### طراحی‌شده برای آرامش.
+صفحه‌های واقعی Vesta Agent 1.4، با محتوای نمایشی.
 
-**[ دانلود VestaAgent-1.4.0-windows-x64-setup.exe](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.0-windows-x64-setup.exe)**
+<p align="center"><img src="https://vesta-agent.github.io/assets/shots/chat.webp" width="820" alt="چت Vesta Agent با یک برنامه‌ی هفتگی"></p>
+<p align="center"><img src="https://vesta-agent.github.io/assets/shots/group.webp" width="405" alt="گروه چتی که ایجنت‌ها کار را تقسیم می‌کنند"> <img src="https://vesta-agent.github.io/assets/shots/voice.webp" width="405" alt="صفحه‌ی تماس صوتی"></p>
 
-1. فایل را دانلود و اجرا کنید.
-2. اگر صفحه‌ی آبی «Windows protected your PC» آمد، روی **More info** و بعد **Run anyway** بزنید.
-3. مراحل نصب را تا آخر بروید؛ Vesta Agent در منوی Start قرار می‌گیرد.
+صفحه‌های بیشتر در [وب‌سایت](https://vesta-agent.github.io/#gallery).
 
-### ویندوز ۷ / ۸
+## دانلود
 
-**[ دانلود VestaAgent-1.4.0-windows7-8-legacy-setup.exe](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.0-windows7-8-legacy-setup.exe)**
+### رایگان. سیستم خودتان را انتخاب کنید.
+آخرین نسخه: 1.4.0. نصب کمتر از یک دقیقه طول می‌کشد.
 
-1. فایل را اجرا کنید.
-2. در هشدار SmartScreen روی **More info** > **Run anyway** بزنید.
-3. نصب را کامل کنید. این نسخه آپدیت خودکار ندارد؛ نسخه‌های جدید را از همین صفحه بگیرید.
+#### ویندوز ۱۰ / ۱۱
+نصب‌کننده‌ی ۶۴ بیتی: **[VestaAgent-1.4.0-windows-x64-setup.exe](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.0-windows-x64-setup.exe)**
+1. نصب‌کننده را اجرا کنید.
+2. اگر SmartScreen ظاهر شد، روی **More info** و بعد **Run anyway** بزنید.
+3. Vesta Agent را از منوی Start باز کنید.
 
-### اندروید
+#### ویندوز ۷ / ۸
+نسخه‌ی مخصوص کامپیوترهای قدیمی: **[VestaAgent-1.4.0-windows7-8-legacy-setup.exe](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.0-windows7-8-legacy-setup.exe)**
+1. نصب‌کننده را اجرا کنید.
+2. اگر هشدار آمد، روی **More info** و بعد **Run anyway** بزنید.
+3. Vesta Agent را از منوی Start باز کنید. این نسخه خودکار آپدیت نمی‌شود، پس نسخه‌های جدید را از همین‌جا دانلود کنید.
 
-**[ دانلود VestaAgent-1.4.0-android.apk](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.0-android.apk)**
+#### اندروید
+فایل APK برای گوشی و تبلت: **[VestaAgent-1.4.0-android.apk](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.0-android.apk)**
+1. فایل APK را روی گوشی دانلود کنید. اگر My Agent قدیمی‌تر از 1.2 دارید، اول آن را حذف کنید.
+2. وقتی پرسید، اجازه‌ی نصب از این منبع را بدهید. اگر Play Protect هشدار داد، Install anyway را بزنید.
+3. برنامه را باز کنید و مراحل راه‌اندازی را دنبال کنید.
 
-1. > اگر نسخه‌ی قدیمی **My Agent** زیر 1.2 نصب دارید، اول آن را حذف کنید.
-2. فایل APK را باز کنید.
-3. اگر پرسید، اجازه‌ی **نصب برنامه‌های ناشناس** (Install unknown apps) را برای مرورگر یا فایل‌منیجر روشن کنید.
-4. **Install** را بزنید. اگر Play Protect هشدار داد، «Install anyway» را بزنید.
+#### لینوکس deb.
+اوبونتو، دبیان، مینت: **[VestaAgent-1.4.0-linux-amd64.deb](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.0-linux-amd64.deb)**
+1. فایل deb. را دانلود کنید.
+2. این دستور را اجرا کنید: `sudo apt install ./VestaAgent-1.4.0-linux-amd64.deb`
+3. برنامه را از فهرست برنامه‌ها باز کنید.
 
-### لینوکس
+#### لینوکس AppImage
+هر توزیعی: **[VestaAgent-1.4.0-linux-x86_64.AppImage](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.0-linux-x86_64.AppImage)**
+1. فایل AppImage را دانلود کنید.
+2. این دستور را اجرا کنید: `chmod +x VestaAgent-1.4.0-linux-x86_64.AppImage`
+3. با دوبار کلیک اجرایش کنید.
 
-**deb (اوبونتو / دبیان):** [ VestaAgent-1.4.0-linux-amd64.deb](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.0-linux-amd64.deb)
+#### VPS / سرور
+به‌زودی. نصب‌کننده‌ی سرور در حال بازسازی است و فعلاً غیرفعال است.
 
-```bash
-sudo apt install ./VestaAgent-1.4.0-linux-amd64.deb
-# یا: sudo dpkg -i VestaAgent-1.4.0-linux-amd64.deb && sudo apt -f install
-```
+[همه‌ی نسخه‌ها و کدهای SHA256](https://github.com/Vesta-Agent/vesta-agent-releases/releases)
 
-**AppImage (همه‌ی توزیع‌ها):** [ VestaAgent-1.4.0-linux-x86_64.AppImage](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.0-linux-x86_64.AppImage)
-
-```bash
-chmod +x VestaAgent-1.4.0-linux-x86_64.AppImage
-./VestaAgent-1.4.0-linux-x86_64.AppImage
-```
-
-### VPS / سرور
-
-> **به‌زودی.** نصب روی سرور (۲۴ ساعته روشن) در حال آماده‌سازی است و فعلاً نصب‌کننده‌ی آن غیرفعال است.
-
----
-
-## راه‌اندازی اولیه
-
-1. **کلید API رایگان بگیرید:**
- - **Google Gemini:** به [aistudio.google.com/apikey](https://aistudio.google.com/apikey) بروید و «Create API key» را بزنید.
- - **OpenRouter:** در [openrouter.ai/keys](https://openrouter.ai/keys) ثبت‌نام کنید و یک کلید بسازید (مدل‌های رایگان دارد).
-2. کلید را در **تنظیمات > کلیدها** وارد کنید. می‌توانید چند کلید بگذارید.
-3. **کاربران ایران:** در **تنظیمات > پروکسی** آدرس پروکسی را وارد کنید (مثلاً `127.0.0.1:10808` از v2rayN / v2rayNG / NekoBox) و دکمه‌ی **تست** را بزنید. آموزش کامل داخل برنامه است.
+### راه‌اندازی اولیه
+1. یک کلید رایگان از [Google AI Studio](https://aistudio.google.com/apikey) یا [OpenRouter](https://openrouter.ai/keys) بگیرید، یا با Ollama مدل‌ها را آفلاین اجرا کنید.
+2. کلید را در **تنظیمات > کلیدها** وارد کنید. برای پشتیبان، چند کلید بگذارید.
+3. در ایران، در **تنظیمات > پروکسی** یک پروکسی اضافه کنید، مثلاً `127.0.0.1:10808` از v2rayN یا NekoBox، و **تست** را بزنید.
 
 ## سؤالات متداول
 
-<details><summary>چطور کمک بگیرم یا مشکلی را گزارش کنم؟</summary>
-به ربات پشتیبانی ما در تلگرام پیام بدهید: <a href="https://t.me/VestaAgentSupportBot">@VestaAgentSupportBot</a>. توضیح، عکس صفحه یا پیام صوتی بفرستید تا یک شماره‌ی تیکت بگیرید. جواب در همان چت می‌آید.
-</details>
+### جواب سؤال‌های شما.
 
-<details><summary>اطلاعات من کجا ذخیره می‌شود؟</summary>
-همه‌چیز (چت‌ها، حافظه، ایجنت‌ها، کلیدها به‌صورت رمزدار) فقط روی دستگاه خودتان است. فقط پیام شما برای جواب گرفتن به سرویس هوش مصنوعی‌ای که کلیدش را گذاشته‌اید فرستاده می‌شود.
-</details>
-
-<details><summary>چرا ویندوز هشدار می‌دهد؟</summary>
-چون برنامه هنوز گواهی امضای تجاری ندارد. فایل را فقط از همین صفحه بگیرید و با SHA256 بررسی کنید.
-</details>
-
-<details><summary>از نسخه‌ی 1.3 آپدیت خودکار نمی‌شود؟</summary>
-آدرس آپدیت تغییر کرده؛ 1.4.0 را یک بار دستی نصب کنید. از آن به بعد آپدیت خودکار است.
-</details>
-
-<details><summary>بدون اینترنت کار می‌کند؟</summary>
-بله، با Ollama می‌توانید مدل را روی خود کامپیوتر اجرا کنید.
-</details>
+<details><summary>چطور کمک بگیرم یا مشکلی را گزارش کنم؟</summary>به ربات پشتیبانی ما در تلگرام پیام بدهید: <a href="https://t.me/VestaAgentSupportBot">@VestaAgentSupportBot</a>. توضیح، عکس صفحه یا پیام صوتی بفرستید تا یک شماره‌ی تیکت بگیرید. جواب در همان چت می‌آید.</details>
+<details><summary>Vesta Agent رایگان است؟</summary>بله. برنامه رایگان است. از کلید هوش مصنوعی خودتان استفاده می‌کنید، مثلاً یک کلید رایگان Gemini یا OpenRouter، یا مدل‌ها را با Ollama آفلاین اجرا می‌کنید.</details>
+<details><summary>اطلاعات من کجا ذخیره می‌شود؟</summary>فقط روی دستگاه خودتان: چت‌ها، حافظه، ایجنت‌ها، تنظیمات و کلیدهای رمزگذاری‌شده. هیچ سرور یا دیتابیس آنلاینی از Vesta وجود ندارد.</details>
+<details><summary>در ایران کار می‌کند؟</summary>بله. در تنظیمات یک پروکسی اضافه کنید، مثلاً پورت محلی v2rayN یا NekoBox، و انتخاب کنید کدام سرویس‌ها از آن استفاده کنند. آموزش داخل برنامه هر مرحله را نشان می‌دهد.</details>
+<details><summary>از کدام مدل‌های هوش مصنوعی پشتیبانی می‌کند؟</summary>Gemini، OpenRouter، سرویس‌های سازگار با OpenAI و مدل‌های محلی از طریق Ollama.</details>
+<details><summary>خودکار آپدیت می‌شود؟</summary>بله. موقع باز شدن بی‌صدا بررسی می‌کند و فقط وقتی نسخه‌ی جدید باشد پنجره نشان می‌دهد. اگر نسخه‌ی 1.3 دارید، یک بار 1.4.0 را دستی نصب کنید، چون آدرس آپدیت عوض شده است.</details>
+<details><summary>چرا ویندوز هشدار آبی نشان می‌دهد؟</summary>نصب‌کننده هنوز با گواهی پولی امضا نشده است. روی More info و بعد Run anyway بزنید.</details>
 
 ## پشتیبانی
 
-سؤال، مشکل یا پیشنهادی دارید؟ **[پشتیبانی در تلگرام: @VestaAgentSupportBot](https://t.me/VestaAgentSupportBot)**. یکی از دکمه‌های «گزارش مشکل»، «پرسیدن سؤال» یا «پیشنهاد» را بزنید یا مستقیم پیامتان را بنویسید. ارسال عکس، فایل و پیام صوتی هم امکان‌پذیر است.
+### کمک لازم دارید؟ کافی است بپرسید.
+مشکل را گزارش کنید، سؤال بپرسید یا پیشنهادتان را برای ربات پشتیبانی ما در تلگرام بفرستید. ارسال عکس صفحه، فایل و پیام صوتی هم امکان‌پذیر است. یک شماره‌ی تیکت می‌گیرید و ما در همان چت جواب می‌دهیم.
+
+**[پشتیبانی در تلگرام: @VestaAgentSupportBot](https://t.me/VestaAgentSupportBot)**
+
+## حریم خصوصی
+
+### اطلاعات شما هرگز از خانه بیرون نمی‌رود.
+- بدون سرور Vesta و بدون دیتابیس آنلاین. چت‌ها، حافظه و تنظیمات روی دستگاه شما هستند.
+- کلیدهای API روی دستگاه رمزگذاری می‌شوند. رمزها، کلیدها و اطلاعات کارت هرگز در حافظه ذخیره نمی‌شوند.
+- فقط پیامی که می‌فرستید به سرویس هوش مصنوعی‌ای می‌رود که کلیدش را گذاشته‌اید. با Ollama هیچ چیزی بیرون نمی‌رود.
+- وقتی میکروفون یا اشتراک صفحه فعال است، همیشه یک نشانگر دیده می‌شود.
 
 ## بررسی سلامت فایل (SHA256)
-
-فایل [SHA256SUMS](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/SHA256SUMS) را کنار فایل دانلودی بگذارید:
-
-```bash
-sha256sum -c SHA256SUMS --ignore-missing # لینوکس
-```
-```powershell
-Get-FileHash .\VestaAgent-1.4.0-windows-x64-setup.exe -Algorithm SHA256 # ویندوز
-```
+فایل [SHA256SUMS](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/SHA256SUMS) را کنار فایل دانلودی بگذارید، بعد در لینوکس `sha256sum -c SHA256SUMS --ignore-missing` یا در ویندوز `Get-FileHash <file> -Algorithm SHA256` را اجرا کنید.
 
 ## یادداشت‌های انتشار
-
 [همه‌ی نسخه‌ها](https://github.com/Vesta-Agent/vesta-agent-releases/releases) · [نسخه‌ی 1.4.0](https://github.com/Vesta-Agent/vesta-agent-releases/releases/tag/v1.4.0)
 
 </div>
 
-<div align="center"><sub>© 2026 Persian Studio · این مخزن فقط فایل‌های نصبی را دارد.</sub></div>
+<div align="center">
+
+### با ایجنت جدیدتان آشنا شوید.
+
+**[دانلود Vesta Agent](#دانلود)**
+
+<sub>ساخت Persian Studio · © 2026 · این مخزن فقط فایل‌های نصبی را دارد.</sub>
+
+</div>
