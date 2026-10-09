@@ -2,7 +2,7 @@
 
 <img src="assets/logo.png" width="200" alt="Vesta Agent">
 
-<a href="https://vesta-agent.github.io"><img src="https://img.shields.io/badge/Website-vesta--agent.github.io-6d5cff?style=for-the-badge" alt="Website"></a>
+<a href="https://vesta-agent.github.io"><img src="https://img.shields.io/badge/Website-vesta--agent.github.io-6d5cff?style=for-the-badge" alt="Website"></a> <a href="https://t.me/VestaAgentSupportBot"><img src="https://img.shields.io/badge/Support-Telegram-3b82f6?style=for-the-badge&logo=telegram&logoColor=white" alt="Support on Telegram"></a>
 
 **[vesta-agent.github.io](https://vesta-agent.github.io)**
 
@@ -66,9 +66,13 @@ chmod +x VestaAgent-1.4.0-linux-x86_64.AppImage && ./VestaAgent-1.4.0-linux-x86_
 3. In Iran, set **Settings > Proxy** (e.g. `127.0.0.1:10808` from v2rayN/NekoBox) and press **Test**.
 
 ## FAQ
+<details><summary>How do I get help or report a bug?</summary>Message our support bot on Telegram: <a href="https://t.me/VestaAgentSupportBot">@VestaAgentSupportBot</a>. Send a description, screenshots or a voice message and you get a ticket number. Replies arrive in the same chat.</details>
 <details><summary>Where is my data stored?</summary>Only on your device. Only your prompts go to the AI provider whose key you added.</details>
 <details><summary>Why does Windows warn me?</summary>The installer isn't commercially code-signed yet. Download only from this page and verify SHA256.</details>
 <details><summary>1.3 doesn't auto-update?</summary>The update URL changed — install 1.4.0 manually once.</details>
+
+## Support
+Need help, found a bug or have a suggestion? **[Support on Telegram: @VestaAgentSupportBot](https://t.me/VestaAgentSupportBot)**. Press Report a bug, Ask a question or Suggestion, or just type your message. Screenshots, files and voice messages are welcome.
 
 ## Verify (SHA256)
 Download [SHA256SUMS](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/SHA256SUMS), then: `sha256sum -c SHA256SUMS --ignore-missing` (Linux) or `Get-FileHash <file> -Algorithm SHA256` (Windows).

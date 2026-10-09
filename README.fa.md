@@ -2,7 +2,7 @@
 
 <img src="assets/logo.png" width="200" alt="Vesta Agent">
 
-<a href="https://vesta-agent.github.io"><img src="https://img.shields.io/badge/Website-vesta--agent.github.io-6d5cff?style=for-the-badge" alt="Website"></a>
+<a href="https://vesta-agent.github.io"><img src="https://img.shields.io/badge/Website-vesta--agent.github.io-6d5cff?style=for-the-badge" alt="Website"></a> <a href="https://t.me/VestaAgentSupportBot"><img src="https://img.shields.io/badge/%D9%BE%D8%B4%D8%AA%DB%8C%D8%A8%D8%A7%D9%86%DB%8C-Telegram-3b82f6?style=for-the-badge&logo=telegram&logoColor=white" alt="پشتیبانی در تلگرام"></a>
 
 **وب‌سایت: [vesta-agent.github.io](https://vesta-agent.github.io/)**
 
@@ -91,6 +91,10 @@ chmod +x VestaAgent-1.4.0-linux-x86_64.AppImage
 
 ## سؤالات متداول
 
+<details><summary>چطور کمک بگیرم یا مشکلی را گزارش کنم؟</summary>
+به ربات پشتیبانی ما در تلگرام پیام بدهید: <a href="https://t.me/VestaAgentSupportBot">@VestaAgentSupportBot</a>. توضیح، عکس صفحه یا پیام صوتی بفرستید تا یک شماره‌ی تیکت بگیرید. جواب در همان چت می‌آید.
+</details>
+
 <details><summary>اطلاعات من کجا ذخیره می‌شود؟</summary>
 همه‌چیز (چت‌ها، حافظه، ایجنت‌ها، کلیدها به‌صورت رمزدار) فقط روی دستگاه خودتان است. فقط پیام شما برای جواب گرفتن به سرویس هوش مصنوعی‌ای که کلیدش را گذاشته‌اید فرستاده می‌شود.
 </details>
@@ -106,6 +110,10 @@ chmod +x VestaAgent-1.4.0-linux-x86_64.AppImage
 <details><summary>بدون اینترنت کار می‌کند؟</summary>
 بله، با Ollama می‌توانید مدل را روی خود کامپیوتر اجرا کنید.
 </details>
+
+## پشتیبانی
+
+سؤال، مشکل یا پیشنهادی دارید؟ **[پشتیبانی در تلگرام: @VestaAgentSupportBot](https://t.me/VestaAgentSupportBot)**. یکی از دکمه‌های «گزارش مشکل»، «پرسیدن سؤال» یا «پیشنهاد» را بزنید یا مستقیم پیامتان را بنویسید. ارسال عکس، فایل و پیام صوتی هم امکان‌پذیر است.
 
 ## بررسی سلامت فایل (SHA256)
 
