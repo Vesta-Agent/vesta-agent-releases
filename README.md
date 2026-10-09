@@ -2,6 +2,10 @@
 
 <img src="assets/logo.png" width="200" alt="Vesta Agent">
 
+<a href="https://vesta-agent.github.io"><img src="https://img.shields.io/badge/Website-vesta--agent.github.io-6d5cff?style=for-the-badge" alt="Website"></a>
+
+**[vesta-agent.github.io](https://vesta-agent.github.io)**
+
 # Vesta Agent
 
 **Your personal AI assistant — on your own device, in your own language**
@@ -9,8 +13,6 @@
 [![Latest](https://img.shields.io/github/v/release/Vesta-Agent/vesta-agent-releases?color=3b82f6&style=for-the-badge)](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Vesta-Agent/vesta-agent-releases/total?color=7c3aed&style=for-the-badge)](https://github.com/Vesta-Agent/vesta-agent-releases/releases)
 ![Platforms](https://img.shields.io/badge/Windows%20%7C%20Android%20%7C%20Linux-0b1220?style=for-the-badge)
-
-**Website: [vesta-agent.github.io](https://vesta-agent.github.io)**
 
 Made by **Persian Studio** · [**فارسی**](README.fa.md)
 

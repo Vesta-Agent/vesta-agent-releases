@@ -2,6 +2,10 @@
 
 <img src="assets/logo.png" width="200" alt="Vesta Agent">
 
+<a href="https://vesta-agent.github.io"><img src="https://img.shields.io/badge/Website-vesta--agent.github.io-6d5cff?style=for-the-badge" alt="Website"></a>
+
+**وب‌سایت: [vesta-agent.github.io](https://vesta-agent.github.io/)**
+
 # Vesta Agent
 
 **دستیار هوش مصنوعی شخصی شما — روی دستگاه خودتان، با زبان خودتان**
@@ -9,8 +13,6 @@
 [![Latest](https://img.shields.io/github/v/release/Vesta-Agent/vesta-agent-releases?label=%D9%86%D8%B3%D8%AE%D9%87&color=3b82f6&style=for-the-badge)](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Vesta-Agent/vesta-agent-releases/total?color=7c3aed&style=for-the-badge)](https://github.com/Vesta-Agent/vesta-agent-releases/releases)
 ![Platforms](https://img.shields.io/badge/Windows%20%7C%20Android%20%7C%20Linux-0b1220?style=for-the-badge)
-
-**وب‌سایت: [vesta-agent.github.io](https://vesta-agent.github.io/)**
 
 ساخته‌شده توسط **Persian Studio** · [**English**](README.md)
 
