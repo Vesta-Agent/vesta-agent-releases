@@ -2,7 +2,7 @@
 
 <img src="assets/logo.png" width="160" alt="Vesta Agent logo">
 
-<sub>PERSONAL AI ASSISTANT · v1.4.1</sub>
+<sub>PERSONAL AI ASSISTANT · v1.5.0</sub>
 
 # Vesta Agent works for you.
 
@@ -50,34 +50,34 @@ More screens on the [website](https://vesta-agent.github.io/#gallery).
 ## Download
 
 ### Free. Pick your platform.
-Latest version: v1.4.1. Installs in under a minute.
+Latest version: v1.5.0. Installs in under a minute.
 
 #### Windows 10 / 11
-64-bit installer: **[VestaAgent-1.4.1-windows-x64-setup.exe](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.1-windows-x64-setup.exe)**
+64-bit installer: **[VestaAgent-1.5.0-windows-x64-setup.exe](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.5.0-windows-x64-setup.exe)**
 1. Run the installer.
 2. If SmartScreen appears, click **More info**, then **Run anyway**.
 3. Open Vesta Agent from the Start menu.
 
 #### Windows 7 / 8
-Legacy build for older PCs: **[VestaAgent-1.4.1-windows7-8-legacy-setup.exe](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.1-windows7-8-legacy-setup.exe)**
+Legacy build for older PCs: **[VestaAgent-1.5.0-windows7-8-legacy-setup.exe](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.5.0-windows7-8-legacy-setup.exe)**
 1. Run the installer.
 2. If warned, click **More info**, then **Run anyway**.
 3. Open Vesta Agent from the Start menu. This build does not auto-update, so download new versions here.
 
 #### Android
-APK for phones and tablets: **[VestaAgent-1.4.1-android.apk](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.1-android.apk)**
+APK for phones and tablets: **[VestaAgent-1.5.0-android.apk](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.5.0-android.apk)**
 1. Download the APK on your phone. If you have My Agent older than 1.2, uninstall it first.
 2. Allow installing from this source when asked. If Play Protect warns, choose Install anyway.
 3. Open the app and follow setup.
 
 #### Linux .deb
-Ubuntu, Debian, Mint: **[VestaAgent-1.4.1-linux-amd64.deb](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.1-linux-amd64.deb)**
+Ubuntu, Debian, Mint: **[VestaAgent-1.4.1-linux-amd64.deb](https://github.com/Vesta-Agent/vesta-agent-releases/releases/download/v1.4.1/VestaAgent-1.4.1-linux-amd64.deb)**
 1. Download the .deb file.
 2. Run `sudo apt install ./VestaAgent-1.4.1-linux-amd64.deb`
 3. Launch it from your apps.
 
 #### Linux AppImage
-Any distribution: **[VestaAgent-1.4.1-linux-x86_64.AppImage](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.4.1-linux-x86_64.AppImage)**
+Any distribution: **[VestaAgent-1.4.1-linux-x86_64.AppImage](https://github.com/Vesta-Agent/vesta-agent-releases/releases/download/v1.4.1/VestaAgent-1.4.1-linux-x86_64.AppImage)**
 1. Download the AppImage.
 2. Run `chmod +x VestaAgent-1.4.1-linux-x86_64.AppImage`
 3. Double-click to start.
@@ -101,7 +101,7 @@ Coming soon. The server installer is being reworked and is currently disabled.
 <details><summary>Where is my data stored?</summary>Only on your own device: chats, memory, agents, settings and encrypted keys. There is no Vesta server or online database.</details>
 <details><summary>Does it work in Iran?</summary>Yes. Add a proxy in Settings, for example the local port from v2rayN or NekoBox, and choose which services use it. A built-in guide shows each step.</details>
 <details><summary>Which AI models does it support?</summary>Gemini, OpenRouter, OpenAI-compatible providers and local models through Ollama.</details>
-<details><summary>Will it update automatically?</summary>Yes. It checks quietly at launch and only shows a window when a new version is available. If you have 1.3, install 1.4.1 manually once, because the update address changed.</details>
+<details><summary>Will it update automatically?</summary>Yes. It checks quietly at launch and only shows a window when a new version is available. If you have 1.3, install 1.5.0 manually once, because the update address changed.</details>
 <details><summary>Why does Windows show a blue warning?</summary>The installer is not yet signed with a paid certificate. Click More info, then Run anyway.</details>
 
 ## Support
@@ -123,9 +123,9 @@ Report a bug, ask a question or send a suggestion to our Telegram support bot. S
 Download [SHA256SUMS](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/SHA256SUMS) next to your file, then run `sha256sum -c SHA256SUMS --ignore-missing` on Linux or `Get-FileHash <file> -Algorithm SHA256` on Windows.
 
 ## Release notes
-**New in 1.4.1:** phone control on Android now works for every agent once Accessibility is on, and Settings > About & Security links to the website and Telegram support.
+**New in 1.5.0:** smarter device control. Agents act on screen elements (buttons, fields, lists) instead of pixels, check every step and retry another way, and understand short requests better. The Update now button works again. Linux stays on 1.4.1 for now.
 
-[All releases](https://github.com/Vesta-Agent/vesta-agent-releases/releases) · [v1.4.1](https://github.com/Vesta-Agent/vesta-agent-releases/releases/tag/v1.4.1)
+[All releases](https://github.com/Vesta-Agent/vesta-agent-releases/releases) · [v1.5.0](https://github.com/Vesta-Agent/vesta-agent-releases/releases/tag/v1.5.0)
 
 <div align="center">
 
