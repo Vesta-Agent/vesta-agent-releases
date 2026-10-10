@@ -2,7 +2,7 @@
 
 <img src="assets/logo.png" width="160" alt="لوگوی Vesta Agent">
 
-<sub>دستیار هوش مصنوعی شخصی · نسخه‌ی 1.5.0</sub>
+<sub>دستیار هوش مصنوعی شخصی · نسخه‌ی 1.5.1</sub>
 
 # Vesta Agent برای شما کار می‌کند.
 
@@ -15,7 +15,7 @@
 
 **[دانلود](#دانلود)** · **[ببینید چطور کار می‌کند](#داخل-برنامه)** · **[وب‌سایت](https://vesta-agent.github.io)** · **[English](README.md)**
 
-رایگان برای ویندوز، اندروید و لینوکس · نسخه‌ی 1.5.0 · ساخت Persian Studio
+رایگان برای ویندوز، اندروید و لینوکس · نسخه‌ی 1.5.1 · ساخت Persian Studio
 
 </div>
 
@@ -52,22 +52,22 @@
 ## دانلود
 
 ### رایگان. سیستم خودتان را انتخاب کنید.
-آخرین نسخه: 1.5.0. نصب کمتر از یک دقیقه طول می‌کشد.
+آخرین نسخه: 1.5.1. نصب کمتر از یک دقیقه طول می‌کشد.
 
 #### ویندوز ۱۰ / ۱۱
-نصب‌کننده‌ی ۶۴ بیتی: **[VestaAgent-1.5.0-windows-x64-setup.exe](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.5.0-windows-x64-setup.exe)**
+نصب‌کننده‌ی ۶۴ بیتی: **[VestaAgent-1.5.1-windows-x64-setup.exe](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.5.1-windows-x64-setup.exe)**
 1. نصب‌کننده را اجرا کنید.
 2. اگر SmartScreen ظاهر شد، روی **More info** و بعد **Run anyway** بزنید.
 3. Vesta Agent را از منوی Start باز کنید.
 
 #### ویندوز ۷ / ۸
-نسخه‌ی مخصوص کامپیوترهای قدیمی: **[VestaAgent-1.5.0-windows7-8-legacy-setup.exe](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.5.0-windows7-8-legacy-setup.exe)**
+نسخه‌ی مخصوص کامپیوترهای قدیمی: **[VestaAgent-1.5.1-windows7-8-legacy-setup.exe](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.5.1-windows7-8-legacy-setup.exe)**
 1. نصب‌کننده را اجرا کنید.
 2. اگر هشدار آمد، روی **More info** و بعد **Run anyway** بزنید.
 3. Vesta Agent را از منوی Start باز کنید. این نسخه خودکار آپدیت نمی‌شود، پس نسخه‌های جدید را از همین‌جا دانلود کنید.
 
 #### اندروید
-فایل APK برای گوشی و تبلت: **[VestaAgent-1.5.0-android.apk](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.5.0-android.apk)**
+فایل APK برای گوشی و تبلت: **[VestaAgent-1.5.1-android.apk](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.5.1-android.apk)**
 1. فایل APK را روی گوشی دانلود کنید. اگر My Agent قدیمی‌تر از 1.2 دارید، اول آن را حذف کنید.
 2. وقتی پرسید، اجازه‌ی نصب از این منبع را بدهید. اگر Play Protect هشدار داد، Install anyway را بزنید.
 3. برنامه را باز کنید و مراحل راه‌اندازی را دنبال کنید.
@@ -103,7 +103,7 @@
 <details><summary>اطلاعات من کجا ذخیره می‌شود؟</summary>فقط روی دستگاه خودتان: چت‌ها، حافظه، ایجنت‌ها، تنظیمات و کلیدهای رمزگذاری‌شده. هیچ سرور یا دیتابیس آنلاینی از Vesta وجود ندارد.</details>
 <details><summary>در ایران کار می‌کند؟</summary>بله. در تنظیمات یک پروکسی اضافه کنید، مثلاً پورت محلی v2rayN یا NekoBox، و انتخاب کنید کدام سرویس‌ها از آن استفاده کنند. آموزش داخل برنامه هر مرحله را نشان می‌دهد.</details>
 <details><summary>از کدام مدل‌های هوش مصنوعی پشتیبانی می‌کند؟</summary>Gemini، OpenRouter، سرویس‌های سازگار با OpenAI و مدل‌های محلی از طریق Ollama.</details>
-<details><summary>خودکار آپدیت می‌شود؟</summary>بله. موقع باز شدن بی‌صدا بررسی می‌کند و فقط وقتی نسخه‌ی جدید باشد پنجره نشان می‌دهد. اگر نسخه‌ی 1.3 دارید، یک بار 1.5.0 را دستی نصب کنید، چون آدرس آپدیت عوض شده است.</details>
+<details><summary>خودکار آپدیت می‌شود؟</summary>بله. موقع باز شدن بی‌صدا بررسی می‌کند و فقط وقتی نسخه‌ی جدید باشد پنجره نشان می‌دهد. اگر نسخه‌ی 1.3 دارید، یک بار 1.5.1 را دستی نصب کنید، چون آدرس آپدیت عوض شده است.</details>
 <details><summary>چرا ویندوز هشدار آبی نشان می‌دهد؟</summary>نصب‌کننده هنوز با گواهی پولی امضا نشده است. روی More info و بعد Run anyway بزنید.</details>
 
 ## پشتیبانی
@@ -125,9 +125,9 @@
 فایل [SHA256SUMS](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/SHA256SUMS) را کنار فایل دانلودی بگذارید، بعد در لینوکس `sha256sum -c SHA256SUMS --ignore-missing` یا در ویندوز `Get-FileHash <file> -Algorithm SHA256` را اجرا کنید.
 
 ## یادداشت‌های انتشار
-**تازه‌های 1.5.0:** کنترل هوشمندتر دستگاه. ایجنت‌ها به‌جای حدس زدن مختصات روی دکمه‌ها و فیلدهای صفحه کار می‌کنند، هر مرحله را بررسی می‌کنند و اگر کار نکرد راه دیگری را امتحان می‌کنند و درخواست‌های کوتاه را بهتر می‌فهمند. دکمه‌ی «به‌روزرسانی» هم درست شد. نسخه‌ی لینوکس فعلاً 1.4.1 می‌ماند.
+**تازه‌های 1.5.1:** تنظیمات مرتب‌تر، راهنمای قدم‌به‌قدم گرفتن کلید API، تور معرفی در اولین اجرا و امکان ارسال فایل و تصویر توسط ایجنت‌ها در چت. نسخه‌ی لینوکس فعلاً 1.4.1 می‌ماند.
 
-[همه‌ی نسخه‌ها](https://github.com/Vesta-Agent/vesta-agent-releases/releases) · [نسخه‌ی 1.5.0](https://github.com/Vesta-Agent/vesta-agent-releases/releases/tag/v1.5.0)
+[همه‌ی نسخه‌ها](https://github.com/Vesta-Agent/vesta-agent-releases/releases) · [نسخه‌ی 1.5.1](https://github.com/Vesta-Agent/vesta-agent-releases/releases/tag/v1.5.1)
 
 </div>
 
