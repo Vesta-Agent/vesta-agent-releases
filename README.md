@@ -2,7 +2,7 @@
 
 <img src="assets/logo.png" width="160" alt="Vesta Agent logo">
 
-<sub>PERSONAL AI ASSISTANT · v1.5.1</sub>
+<sub>PERSONAL AI ASSISTANT · v1.7.0</sub>
 
 # Vesta Agent works for you.
 
@@ -15,7 +15,7 @@
 
 **[Download](#download)** · **[See it in action](#inside-the-app)** · **[Website](https://vesta-agent.github.io)** · **[فارسی](README.fa.md)**
 
-Free for Windows, Android and Linux · Version 1.4.1 · Made by Persian Studio
+Free for Windows, Android and Linux · Version 1.7.0 · Made by Persian Studio
 
 </div>
 
@@ -26,6 +26,7 @@ One app, powerful agents, and no servers of ours in between.
 
 | | |
 |---|---|
+| **Keeps working while you chat** | Long tasks run in the background with a live status card. Ask how it is going, change the plan or cancel it, and the task carries on. |
 | **Voice calls** | Talk naturally and hear spoken replies. Share your screen mid-call and ask what is wrong. |
 | **Screen vision** | With your permission the agent sees your screen, explains it and helps you fix it. |
 | **Phone control** | The agent taps, types and navigates on Android, even without a computer. |
@@ -36,13 +37,17 @@ One app, powerful agents, and no servers of ours in between.
 | **Proxy for Iran** | Real HTTP and SOCKS5 proxy per service, with a built-in step-by-step guide. |
 | **Offline mode** | Run entirely on your computer with Ollama. Nothing leaves the machine. |
 | **Privacy first** | No accounts and no cloud database. Keys are encrypted on your device. |
+| **15 themes** | Midnight, Aurora, Ocean, AMOLED black, Paper and more, plus a Reduce animations mode for older devices. |
+| **NVIDIA NIM and more models** | Gemini, OpenAI, Anthropic, xAI, OpenRouter, DeepSeek, Groq, Mistral, NVIDIA NIM and local models, with a searchable model list. |
+| **Builds apps for you** | On Windows the agent can package a small program as an .exe, an Android .apk (with the Android SDK installed) or an installable web app. |
 
 ## Inside the app
 
 ### Designed to feel calm.
-Real screens from Vesta Agent 1.4, shown with demo content.
+Real screens from Vesta Agent, shown with demo content.
 
-<p align="center"><img src="https://vesta-agent.github.io/assets/shots/chat.webp" width="820" alt="Vesta Agent chat with a weekly plan"></p>
+<p align="center"><img src="https://vesta-agent.github.io/assets/shots/live.webp" width="820" alt="Vesta Agent answering while a task runs in the background"></p>
+<p align="center"><img src="https://vesta-agent.github.io/assets/shots/themes.webp" width="405" alt="Theme gallery"> <img src="https://vesta-agent.github.io/assets/shots/models.webp" width="405" alt="NVIDIA NIM model list"></p>
 <p align="center"><img src="https://vesta-agent.github.io/assets/shots/group.webp" width="405" alt="Group chat where agents split a task"> <img src="https://vesta-agent.github.io/assets/shots/voice.webp" width="405" alt="Voice call screen"></p>
 
 More screens on the [website](https://vesta-agent.github.io/#gallery).
@@ -50,22 +55,22 @@ More screens on the [website](https://vesta-agent.github.io/#gallery).
 ## Download
 
 ### Free. Pick your platform.
-Latest version: v1.5.1. Installs in under a minute.
+Latest version: v1.7.0. Installs in under a minute.
 
 #### Windows 10 / 11
-64-bit installer: **[VestaAgent-1.5.1-windows-x64-setup.exe](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.5.1-windows-x64-setup.exe)**
+64-bit installer: **[VestaAgent-1.7.0-windows-x64-setup.exe](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.7.0-windows-x64-setup.exe)**
 1. Run the installer.
 2. If SmartScreen appears, click **More info**, then **Run anyway**.
 3. Open Vesta Agent from the Start menu.
 
 #### Windows 7 / 8
-Legacy build for older PCs: **[VestaAgent-1.5.1-windows7-8-legacy-setup.exe](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.5.1-windows7-8-legacy-setup.exe)**
+Legacy build for older PCs: **[VestaAgent-1.7.0-windows7-8-legacy-setup.exe](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.7.0-windows7-8-legacy-setup.exe)**
 1. Run the installer.
 2. If warned, click **More info**, then **Run anyway**.
 3. Open Vesta Agent from the Start menu. This build does not auto-update, so download new versions here.
 
 #### Android
-APK for phones and tablets: **[VestaAgent-1.5.1-android.apk](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.5.1-android.apk)**
+APK for phones and tablets: **[VestaAgent-1.7.0-android.apk](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/VestaAgent-1.7.0-android.apk)**
 1. Download the APK on your phone. If you have My Agent older than 1.2, uninstall it first.
 2. Allow installing from this source when asked. If Play Protect warns, choose Install anyway.
 3. Open the app and follow setup.
@@ -100,8 +105,8 @@ Coming soon. The server installer is being reworked and is currently disabled.
 <details><summary>Is Vesta Agent free?</summary>Yes. The app is free. You use your own AI key, for example a free Gemini or OpenRouter key, or run models offline with Ollama.</details>
 <details><summary>Where is my data stored?</summary>Only on your own device: chats, memory, agents, settings and encrypted keys. There is no Vesta server or online database.</details>
 <details><summary>Does it work in Iran?</summary>Yes. Add a proxy in Settings, for example the local port from v2rayN or NekoBox, and choose which services use it. A built-in guide shows each step.</details>
-<details><summary>Which AI models does it support?</summary>Gemini, OpenRouter, OpenAI-compatible providers and local models through Ollama.</details>
-<details><summary>Will it update automatically?</summary>Yes. It checks quietly at launch and only shows a window when a new version is available. If you have 1.3, install 1.5.1 manually once, because the update address changed.</details>
+<details><summary>Which AI models does it support?</summary>Gemini, OpenAI, Anthropic, xAI (Grok), OpenRouter, DeepSeek, Groq, Mistral, Together, NVIDIA NIM, any OpenAI-compatible provider, and local models through Ollama or LM Studio.</details>
+<details><summary>Will it update automatically?</summary>Yes. It checks quietly at launch and only shows a window when a new version is available. If you have 1.3, install 1.7.0 manually once, because the update address changed.</details>
 <details><summary>Why does Windows show a blue warning?</summary>The installer is not yet signed with a paid certificate. Click More info, then Run anyway.</details>
 
 ## Support
@@ -123,9 +128,13 @@ Report a bug, ask a question or send a suggestion to our Telegram support bot. S
 Download [SHA256SUMS](https://github.com/Vesta-Agent/vesta-agent-releases/releases/latest/download/SHA256SUMS) next to your file, then run `sha256sum -c SHA256SUMS --ignore-missing` on Linux or `Get-FileHash <file> -Algorithm SHA256` on Windows.
 
 ## Release notes
+**New in 1.7.0:** keep chatting while a task runs in the background and steer or cancel it from chat, 15 themes, NVIDIA NIM with a searchable model list, apps built by the agent (.exe, .apk, web app), context-aware suggestions, an animated lock screen and update window, simple Open, Save and Share for files, automatic chat titles and a Reduce animations mode. Linux stays on 1.4.1 for now.
+
+**New in 1.6:** a modern redesign, a floating island, agents that create and send any file, reminders that fire when the app is closed, and a free iPhone web app.
+
 **New in 1.5.1:** cleaner Settings, a step-by-step API key guide, a first-run tour, and agents can send files and images into the chat. Linux stays on 1.4.1 for now.
 
-[All releases](https://github.com/Vesta-Agent/vesta-agent-releases/releases) · [v1.5.1](https://github.com/Vesta-Agent/vesta-agent-releases/releases/tag/v1.5.1)
+[All releases](https://github.com/Vesta-Agent/vesta-agent-releases/releases) · [v1.7.0](https://github.com/Vesta-Agent/vesta-agent-releases/releases/tag/v1.7.0)
 
 <div align="center">
 
